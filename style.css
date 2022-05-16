@@ -1,0 +1,153 @@
+*
+{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+nav a 
+{
+    color:rgb(33, 238, 217);
+    padding: 3rem 2rem;
+}
+.flex
+{
+    display:flex;
+    text-align: center;
+}
+.spa1{
+            color:rgb(253, 255, 255);
+        }
+
+.spa2{
+    color:rgb(33, 238, 217);
+}
+.button1
+{
+    background-color:rgb(33, 238, 217);
+     
+    padding: 2rem;
+    item-align:right;
+}
+
+.flex h1
+{
+    padding:2rem 0;
+}
+.section1
+{
+    background-color:rgb(0, 0, 0)
+}
+.intro
+{
+    padding:20rem 15rem
+}
+.intro h3{
+    color:white;
+}
+.intro h1{
+    color:rgb(33, 238, 217);
+}
+.intro span {
+    color:white;
+}
+#spank
+{
+    color:rgb(33, 238, 217);
+}
+.butt
+{
+    color: black;
+    background-color:rgb(33, 238, 217);
+    padding:1rem 2rem;
+}
+.section2 h1
+{
+    color:rgb(33, 238, 217);
+    text-align: center;
+}
+.section2
+{
+    background-color:rgb(29, 28, 28);
+}
+.section2 img
+{
+padding:2rem 4rem;
+}
+.section2 h3
+{
+    color:white;
+    padding: 4rem 4rem
+}
+.button2
+{
+    background-color:rgb(33, 238, 217);
+    padding:1rem 2rem;
+    margin_right :30 px;
+    
+}
+.section3 h1
+{
+    color:rgb(255, 255, 255);
+    text-align:center;
+    padding: 5s 0;
+}
+.section3
+{
+    background-color:black;
+}
+.card
+{
+    margin:auto;
+    padding:4;
+    background-color:rgb(45, 43, 43);
+    color: white;
+    text-align:center;
+}
+.section3 .container-fluid
+{
+    margin:auto;
+}
+.btn{
+   background-color:rgb(33, 238, 217);
+}
+.section4{
+    background-color:rgb(29, 28, 28);
+    text-align:center;
+}
+.section4 h3
+{
+    color:aliceblue;
+    text-align:center
+}
+.section4 h5
+{
+    color:rgb(33, 238, 217);
+    text-align:center;
+}
+.button5
+{
+    background-color:rgb(33, 238, 217);
+    padding:1rem 2rem;
+    
+}
+.button6
+{
+    background-color:rgb(145, 33, 33);
+    color:whitesmoke;
+    padding: 1rem 2rem;
+}
+.section5
+{
+    text-align:center;
+}
+.section5 h1{
+    color:rgb(223, 217, 217);
+}
+.section5 h5{
+    color:rgb(220, 220, 220);
+}
+.centralizer
+{
+    text-align:center;
+}
+
